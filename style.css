@@ -50,8 +50,8 @@ table tr td:first-child {
 }
 
 p {
-    position: relative;
-    left: 39%;
+    position: absolute;
+    left: 40%;
     font-size: 50px;
 }
 
